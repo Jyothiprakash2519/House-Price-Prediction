@@ -11,3 +11,5 @@
 -> Visualized results with heatmaps, correlation matrices, and actual vs predicted price plots
 
 Tools Used: Python, pandas, scikit-learn, matplotlib, seaborn
+
+![Screenshot 2025-04-07 160501](https://github.com/user-attachments/assets/7648af98-a361-47d9-999e-275fd28485db)
